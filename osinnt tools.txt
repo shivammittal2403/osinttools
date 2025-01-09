@@ -1,0 +1,458 @@
+telepathydb[.]com
+telemetryapp[.]io
+tgstat[.]com 
+fragment[.]com
+telegra[.]ph
+telegcrack[.]com
+combot[.]org/top/telegram/groups
+telegramdb[.]org
+lyzem[.]com 
+github[.]com/drego85/tosint
+cse[.]google[.]com/cse?&cx=006368593537057042503:efxu7xprihg 
+web[.]archive[.]org/collection-search/telegram/
+
+
+
+
+
+
+
+
+https://lnkd.in/gXNX_siZ - Surveillance under Surveillance, World map of surveillance cameras, and guard/security locations (mostly Europe and neighboring countries). For some cameras detailed information is given: geo coordinates, type, mount, timestamp, viewing angles, etc
+
+https://lnkd.in/g7UDrKZQ - atlasofsurveillance, database of police tech — enter a city, county, state or agency in the United States
+
+https://deflock.me/ - deflock, crowdsourced map of Automated License Plate Readers (ALPRs) around the world
+
+https://lnkd.in/gHw4KaKH - Airport Webcams, Live camera's from airports around the world
+
+https://www.earthcam.com/ - EarthCam, Directory of webcams, searchable and has a map
+
+https://lnkd.in/gZWUv6Si - Windy, Weather map of wind speed and direction that includes cameras to view current traffic and weather conditions
+
+http://www.opentopia.com/ - OpenTopia, directory of webcams, search only, map feature not working
+
+https://www.pictimo.com/ - Pictimom, directory of webcams, search by keyword, tags, and via a map
+
+http://www.insecam.org/ - Insecam, directory of webcams, search by keyword, tags, camera manufacturer, and country/city
+
+https://lnkd.in/gNG9pKCB - camstreamer, directory of webcams, search by keyword, tags, camera manufacturer, country/city, and/or app used for camera
+
+https://lnkd.in/g2ZEW97A - webcamtaxi, directory of webcams, search by keyword, tags, and via a map
+
+https://lnkd.in/gwY6Zh88 - skylinewebcams, directory of webcams, search by tags and country 
+
+https://worldcam.eu/ - worldcam.eu, has a lot of webcams in Europe, search by country, state, etc
+
+https://worldcams.tv/ - worldcams.tv, directory of webcams, search by city and country
+
+https://www.geocam.ru/en/ - geocam.ru, has a lot of webcams in Russia and nearby countries, search by country and city
+
+https://lnkd.in/g7NHdJbb - livebeaches, Beach webcams only, search by beach name, city, etc
+
+https://lnkd.in/gja727gr - mangolinkworld, directory of webcams, search by city, country, tag, keyword, etc
+
+https://lnkd.in/g-xgR_NS - foxmonitor, directory of webcams, cannot search by anything, just a basic directory
+
+https://lnkd.in/gWmbc8GG - Google Custom Search Engine for search in 10 online street webcam catalogs
+
+
+
+
+
+Privacy.com.https://geocell.mobi/ - Geocell.mobi
+
+
+
+privacy.com
+https://lnkd.in/gMMJieMB
+
+https://lnkd.in/gshy8VPT
+https://lnkd.in/gtUssGaY
+
+
+https://psbdmp.ws/ - psbdmp, The biggest archive of {paste} dumps
+
+https://lnkd.in/gEUAq9pW - search-pastebin, Google CSE powered tool, Search 33 Paste Sites at once
+
+https://lnkd.in/gcFGiE4H - RedHuntlabs online-ide-search, looks for keywords/strings in following Online IDEs, Paste(s) sites, and Code Sharing Platforms
+
+https://lnkd.in/g32ujPrN - NerdyData.com, Find websites by searching for specific technologies, HTML code, or Javascript code
+
+https://publicwww.com/ - Publicwww, search the source code of 480,057,956 web pages
+
+https://lnkd.in/gVBjCHfp - Grayhatwarfare, search index of public buckets from hosting services (AWS, DigitalOcean, etc) and URL shorteners 
+
+https://lnkd.in/g3BbEbNs - CSE for search 20 source code hosting services - bitbucket.org, codeberg.org, fedoraproject.org, github.com, gitlab.com, sourceforge.net, tizen.org, etc
+
+https://grep.app/ - grep.app, Search across a half million git repos
+
+https://searchcode.com/ - searchcode, Search 75 billion lines of code from 40 million projects
+
+https://lnkd.in/gF4kjyHh - Open Directory Search Tool, Find files in open directories
+
+https://www.mmnt.ru/int/ - Mamont, Largest FTP Search Engine
+
+https://lnkd.in/gERfPm7R - fidigger, Look for public archives in different File Sharing services
+
+https://lnkd.in/gnVRhfVP - s3digger, Find public files in Amazon S3
+
+https://lnkd.in/gMFAcveK - yadigger, Find public files in Disk Yandex
+
+https://lnkd.in/gy29QkFa - dedigger, Find public files in Google Drive
+
+https://lnkd.in/gQgBwb52 - shortdigger, Enables the search for documents that are made accessible through the use of URL shortening services
+
+https://lnkd.in/gwjf5u9i - NAPALM FTP Indexer, Searching 894,766,414 files (10317.90 TB) in 3,063 FTP servers
+
+https://sourcegraph.com/ - Sourcegraph, extremely good code search, good filters, specifically geared toward devs
+
+https://issuu.com/ - Issuu, search user submitted pdfs
+
+http://uvrx.com/ - UVRX, Search files from Badongo, 4Shared, Depositfiles, Zshare, Taringa, Mediafire, Usenet, Mega, and more
+
+https://www.pdfdrive.com - PDF Drive, Search over 75,474,759 eBooks
+
+https://lnkd.in/giBcCG-A - SlideShare, Search user-submitted slideshows
+
+https://www.pdfsearch.io/ - PDFSEARCH.IO, search index of 18,184,479 items, organized by smart labels
+
+
+
+
+
+https://lnkd.in/gD56xr6n - BirdHunt, find posts surrounding a location
+
+https://lnkd.in/gu_qFD3G - twitter video downloader, Download Twitter videos & GIFs from tweets
+
+https://fedica.com/search/ - Fedica, contains various tools, from social listening, to analyzing any account's timeline. Learn how much engagement it receives, which topics it talks about
+
+https://trendsmap.com/ - Trendsmap, provides historical access to hundreds of billions of tweets from when ‘Twitter was Twitter’.
+
+https://foller.me/ - Twitter Analytics by Foller.me, Contains historical data of profiles from when the service scrapped their data
+
+https://lnkd.in/gBhW7GaQ - api[.]memory[.]lol/v1/tw/screennamehere/, look up 542 million historical screen names for 443 million Twitter accounts
+
+https://lnkd.in/gv_hRtua - detailed information on memory.lol api for historical twitter screen name history
+
+https://lnkd.in/g336fjbC - The one million tweet map, see tweets on a map from only the date of 3/14/2023 and 3/13/2023
+
+https://lnkd.in/gYgiRSmD - Hoaxy, REQUIRES API KEY, Visualize the spread of information on bluesky and search for posts/contents
+
+https://www.sotwe.com/ - sotwe, view twitter profiles, posts, trends, etc without logging in
+
+https://lnkd.in/gQk8cZV9 - Deleted Tweet Finder, tool to find deleted tweets using all available sources (Search engine caches, archive sources, etc)
+
+https://lnkd.in/g4ccw7AW - Twitter Built-in Advanced Search
+
+https://lnkd.in/g7D3qnuK - Twitter Dork Cheatsheet
+
+https://lnkd.in/gszjF9cj - Twitter Dorking Tip: Anaylze (Twitter) Profile for Hidden Insights Using the Word ‘My’
+
+https://lnkd.in/geUPU2dh - Up-to-date tutorial for building a Twitter scrapper using the new API for automated CTI
+
+There is also a Twitter breach that allows you to go from a Twitter username or display name to an email address. It only works for accounts that had a certain privacy setting that was unenabled at the time of the breach. If you'd like a copy of this breach, reach out to my company Farnsworth Intelligence, experts on data intelligence: https://lnkd.in/gp9nyQQD
+
+
+
+
+
+
+https://internect.info/ - Internect.info Bluesky Resolver, Get location info about where an account was created based on the server location and other technical info
+
+https://deck.blue/ - Deck Blue, similar to the original TweetDeck, timelines, notifications, custom feeds, and lists—simultaneously.
+
+https://skyfeed.app/ - Skyfeed App, create custom feeds and manage multiple feeds, lists, and accounts in one view, enhancing your BlueSky experience
+
+https://clearsky.app/ - Clearsky, let's you search for accounts and shows top listed/blocked accounts in the last 24h.
+
+https://bsvdl.fly.dev/ - Bluesky Video Downloader, third party tool to download videos from BlueSky.
+
+https://lnkd.in/gjS25Jvk - Bluesky Stats, stats report showing Bluesky user activity platform-wide
+
+https://lnkd.in/g6Yyh42x - Bluesky handles directory
+
+https://skyzoo.blue/stats - Sky Zoo, Get stats on a specific user
+
+https://lnkd.in/gjp2n9Pi - Sky Zoo Wolf, directory and search tool for Stater Packs
+
+https://lnkd.in/g8a6XsSf - blueskydirectory.com, Browse a list of Bluesky Starter Packs.
+
+https://lnkd.in/gJGkKKpn - Sky Follower Bridge, plugin to help you find and follow people on Bluesky that you follow on Twitter
+
+https://lnkd.in/gGck2VFv - bluesky-social-graph, get and visaulize follower or following for user, finds mutual connections, visualizes it in Graphext
+
+https://lnkd.in/gHFikUr3 - Backdated post labeler, labels posts where the creation date does not match the time they first showed up on the firehose
+
+https://lnkd.in/gJwP5gFv - Bluesky ID to Profile Bookmarklet, used to find the profile page based upon a Bluesky user's ID
+
+https://lnkd.in/gJwP5gFv - Bluesky ID Revealer Bookmarklet, extract user ID, display name, and handle, then display in an overlay.
+
+https://lnkd.in/gYgiRSmD - Hoaxy, visualize the spread of information on bluesky and search for posts/contents.
+
+https://lnkd.in/g4iQuiXK - sbm12, user Join Date Query
+
+https://lnkd.in/gkBNtkd6 - sbm12, import members from one list into another, existing list.
+
+https://lnkd.in/gw6AXiEM - sbm12, convert a Bluesky List to a Starter Pack.
+
+https://lnkd.in/gw6AXiEM - sbm12, convert a BSky Starter Pack to a List.
+
+https://lnkd.in/gqSGA49Z - sbm12, follow a random chunk of users from someone else's list
+
+https://lnkd.in/gByuTw4v - sbm12, create a list from all the people you follow
+
+
+
+TU: https://lnkd.in/gG-KSv8R
+You can use this tool to analyze the meta-data of these file formats:
+Open Office: .odt .ods .odg .odp .sxw .odf .ott .oth .odm .otg .otp .ots
+Microsoft: .docx .doc .pptx .ppt .ppsx .pps .xlsx .xls .xlsm .xltx .xlsb .tmp .xar .asd .wbk .xlk .xlt .wpd
+iWorks: .pages .key .numbers
+Image: .jpg .jpeg .raw .png .tiff .tif .svg .svgz .cr2 .crw
+Audio/Video: .mp3 .avi .mp4
+Compressed(2): .zip .tar
+Others: .pdf .rtf .wnry .wry .indd .rdp .ica
+
+
+
+https://www.dedigger.com/#gsc.tab=0&gsc.q=delhi&gsc.sort=
+https://yadigger.com/#gsc.tab=0&gsc.q=delhi&gsc.sort=
+
+
+https://github.com/Malfrats/xeuledoc.git
+
+
+Here are a few tools for finding these files and types of documents:
+https://issuu.com/ - Issuu. This tool allows you to convert PDF files into other formats like Flipbooks, Social Media Posts, Articles, GIFs, and more. You can search files submitted to the site and the search covers the indexed contents of those files as well.
+
+https://lnkd.in/giBcCG-A - SlideShare. This tool allows you to share presentations, slide decks, etc. You can search the files uploaded to the site and the search covers the indexed contents of those files as well.
+
+https://www.scribd.com/ - Scribd. This tool allows you to share documents and is used by everyone from academics to professionals alike. It can contain a variety of documents. You can search the over 175 million documents uploaded to the site and the search covers the indexed contents of those files as well. 
+
+https://www.docdroid.net/ - DocDruid. Allows you to upload and share documents online. It does not have a search engine feature, however, it can be dorked in search engines using the "site:" operator and a match case operator for the term you are trying to find in the documents.
+
+https://www.calameo.com/ - Calameo. Publishing platform for digital magazines, interactive publications and online catalogs. You can search documents uploaded to the site and the search covers the indexed contents of those files as well.
+
+
+
+Since we don't know that range, we can find out if a device was or wasn't manufactured by Taser International Inc. using a Bluetooth device address lookup tool:
+https://lnkd.in/gzayy5hc - IPNet, 
+Bluetooth Device Address (BD_ADDR) Lookup Tool
+
+If you want to give it a try, try looking up this address:
+00:25:DF:6C:B8:73
+
+Finally, as I mentioned earlier, using tools like WiGLE you can geolocate the device via its Bluetooth address with the Bluetooth Search feature:
+https://lnkd.in/gzCehYV3 - WiGLE Bluetooth Search
+
+
+Let's use a particularly interesting example from hackers who are using these addresses to detect police: https://lnkd.in/gdG9b7mu
+
+This tool is the most comprehensive online file storage search engine tool I've found. Currently, it allows you to search file hosting services like: Mega, filefactory, depositfiles, easy-share, sharedzilla, gigasize, divshare, sendspace, yousendit, Badongo, Mediafire, Zshare, 4shared, letitbit, drop, filesurf, hotshare, usaupload, savefile, bigupload, up-file, hyperfileshare, zippyshare, uploaded.to, uploading, sharebee, rapidspread, Taringa, and many more with each search query.
+
+Check out the tool here: http://uvrx.com/ - UVRX
+
+If you found this helpful, please share this with your network!
+
+
+
+
+Vedbex, easy to use, web-based: 
+https://lnkd.in/g2ykvgRB - Vedbex, Email to Skype
+https://lnkd.in/gAwSdpQT - Vedbex, Phone Number to Skype
+https://lnkd.in/gJxFTeiT - Vedbex, Get IP address from Skype Username (This works because Skype is P2P, meaning other users can see your IP address)
+
+
+
+These two tools have collectively indexed over 4 billion files on FTP servers and are both free to use:
+https://lnkd.in/gwjf5u9i - NAPALM FTP Indexer, 894,766,414 files (10317.90 TB) in 3,063 FTP servers
+https://www.mmnt.ru/int/ - M A M O N T, Total files: 4 Billion
+
+t also supports the following basic Boolean operators: AND, OR, (), "",*
+
+https://lnkd.in/g2eDV6Fe - Telemetry
+RapidAPI used in an OSINT tool, but I am sure it won't be the last: https://lnkd.in/gCuzarfg - Meta_scan, Facebook Scraping Tool
+
+This tool has a much higher chance of continuing to work, not because it is necessarily better than other tools, but because a third party is being paid to actively maintain a Facebook scrapper and ensure it continues to work. This allows the tool developer to just focus on issues and updates related to the tool and frees them from the cat-and-mouse game with Meta.
+
+Moving forward I am expecting more tool developers to integrate API scrappers instead of creating their own. And, the API developers who maintain these scrappers stand to make a lot of money from them if they can establish themselves as reliable and quick to fix issues.
+
+RapidAPI has a ton of similar scrappers and many other useful APIs for OSINT, give them a look if you are making OSINT products: https://rapidapi.com/hub
+
+Here's a link to the tool:
+https://fidigger.com/ - Fidigger 
+
+Here are some useful tools for VK:
+https://vk.watch/ - Historical profiles scrapes. See public comments left by an account, profile photos used, demographic information, and more! 
+https://lnkd.in/gX4GTGUK - Find VK profiles by face!
+
+
+You can search OSHA violations easily using the official OSHA tool:
+https://lnkd.in/gieZA8Au - Official OSHA search tool
+
+There are two tools for searching this data that I have found so far, they are:
+https://lnkd.in/gfRTS2pT - Packet Safari
+https://lab.dynamite.ai/ - DynamiteLab
+
+
+Their data is stored in Web ARChive (WARC) Format. This file format is extremely high fidelity and allows you to view a page as if the page were still live from an archive file.
+
+I've archived an entire online sports profile with hundreds of videos using the file format and some of their open-source tools and I was able to view the profile from the archive as if I was viewing the live page. 
+
+Common Crawl is not as easily accessible as the Internet Archive though, I would highly recommend reading their guide before you get started: https://lnkd.in/gub7Pi8n
+
+Once you are done with that, you can search their index using a URL pattern here and download any data you find using the instructions from the guide: https://lnkd.in/girYSGte
+
+Edit: Here's a guide by my friend Albert Hui on how to download data from CommonCrawl: https://lnkd.in/gCCWjk8V
+Activate to view larger image,
+
+
+sharing a list of my favorite YouTube OSINT tools:
+
+https://lnkd.in/g8c5Ry9E - Geo Search Tool, Find YouTube videos by location
+https://filmot.com/ - Search within YouTube subtitles, captions and transcripts
+https://lnkd.in/g2VJrxpa - Search YouTube channel for videos that mention a keyword
+https://lnkd.in/g3FbVU83 - Extract metadata from a youtube video 
+https://lnkd.in/g4j5AtqH - Search YouTube by location for geotagged videos.
+https://lnkd.in/gqUsGskk - MW Metadata normal grabs singular details about a YouTube video and its uploader, playlist and its creator, or channel. 
+https://lnkd.in/gRPaCMGt - Search for unlisted YouTube videos.
+https://lnkd.in/gQgJy9g3 - Search Comments of YT Video - By String, By Date, by likes, by newest, by oldest, by followers/subscribers count.
+https://lnkd.in/gzww-7rv - Extract the tags from a Youtube Video
+https://lnkd.in/gjEyPsmK - Microsoft Bing Video Search, Search the internet for videos
+
+
+https://github.com/crcresearch/DWData
+
+
+https://steamid.uk/ - One of the longest-running services of the kind, has historical steam username history. Established 2009
+https://steamhistory.net - Has some unique data and doesn't censor username history. Best to use it in conjunction with the above tool. Has various other useful tools like comment search, profile picture search, etc.
+https://steamid.io/lookup - Lookup and convert your steamID, steamID3, steamID64, customURL and community id
+
+
+Some additional Steam tools (more focused on game/sales data than profiles):
+https://steambase.io/ -  The data platform for everything on Steam.
+https://steamdb.info/ - Database of everything on Steam.
+
+
+Newspapers:
+https://lnkd.in/gVWWjnE7 - Florida Digital Newspaper Library
+https://lnkd.in/gFWWcQ79 - Largest online newspaper archive, established in 2012, now owned by Ancestry.
+
+School alumni databases are also a great source of information for older individuals.
+
+School:
+https://lnkd.in/g9BpJK8s - Search a directory of high school and class lists, even search by maiden name
+https://lnkd.in/ggQt3Qhy - Search a directory of high school and class lists
+https://alumnius.net/ - Search a directory of university alumni
+https://lnkd.in/gBtbykp8 - Search a directory of high school honor rolls and principal lists
+https://lnkd.in/gcfSicKH - Search a directory of student honor roles
+
+I handpicked a few databases that I have found particularly helpful with older subjects.
+
+Databases:
+https://lnkd.in/gHY-wjaE - Includes 1.9 billion records, their campaign contributions and voter registration datasets are especially helpful for investigations involving older people.
+https://lnkd.in/gktESmxG - Search federal bankruptcy records, helpful as this data goes back many decades
+
+
+
+Tools:
+https://discord.id/ (Get account creation date, full-size profile picture, and badges)
+https://lnkd.in/gTCqxUb9 (Search through hundreds of thousands of messages from white supremacist and neo-nazi Discord servers)
+https://dht.chylex.com/ (Discord History Tracker - lets you save chat history in your servers, groups, and private conversations, and view it offline.)
+
+Techniques:
+1. Dorking the Discord Feedback forum could help find posts via someone's Discord username. When you make a post to the forum either as a feature suggestion, feedback post, or comment it includes your Discord username in the post. https://lnkd.in/g4uFE5Ty
+
+2. Join large public Discord servers and search for messages from the target user. You can find large Discord servers using sites like: 
+https://lnkd.in/g5-vnxp4 (Official Discord Server Directory)
+https://lnkd.in/gxayAKHR (Disboard - Unofficial Directory)
+https://lnkd.in/gJSGATxn (DiscordServers - Unofficial Directory)
+https://discadia.com/ (Discadia - Unofficial Directory)
+https://discordbee.com/ (DiscordBee - Unofficial Directory)
+https://discord.center/ (DiscordCenter - Unofficial Directory)
+https://discord.me/servers (DiscordMe - Unofficial Directory)
+https://top.gg/ (TopGG - Unofficial Directory)
+
+
+Instead use tools that actively monitor ransomware sites, breach sites, telegram channels, and more. 
+
+https://www.ransomlook.io/ (Ransomlook - Ransomware and Breach Tracker)
+https://lnkd.in/gzmzSDxE (RansomWatch - Another Ransomware and Breach Tracker)
+ https://telepathydb.com/ - Telegram Search Tool)
+
+
+
+Here are a few great tools to help you with your deep web research:
+https://publicwww.com/ (Source Code Search Engine -Find any alphanumeric snippet, signature, or keyword in the web pages HTML, JS, and CSS code)
+https://lnkd.in/gVBjCHfp (Buckets and Shortner Search Tool)
+https://lnkd.in/gcFGiE4H (looks for keywords/strings in Online IDEs, Paste(s) sites and Code Sharing Platforms)
+
+
+
+
+Thankfully, there are some great tools for this, such as:
+https://lnkd.in/gCxdCa9Y (SearchTempest - All of Facebook Marketplace, craigslist & more in one search.)
+https://searchalljunk.com (SearchAllJunk - Craigslist, Recycler, Penny Saver, Oodle and Facebook Marketplace search all in one place)
+https://claz.org/ (Claz - Explore 10,288,055 classified listings across 5,820 sources)
+
+
+
+
+I've scoured the internet and found as many facial recognition tools as I could find, here are my results:
+http://faceagle.com/ (FaceEagle)
+https://pimeyes.com/en (PimEyes)
+https://facecheck.id/ (FaceCheck)
+https://lnkd.in/gsJx5JHp (CamGirlFinder)
+https://lnkd.in/gdaP7xwN (Search4faces - English Site)
+https://lnkd.in/gEZD5M-T (Reverse face search. clubhouse.com avatars database)
+https://lnkd.in/gYmjvDST (Reverse face search tiktok.com avatars database)
+https://lnkd.in/gkDyNKJs (Reverse face search vk.com profile photos database)
+https://lnkd.in/g8NE4BBA (Reverse face search ok.ru and vk.com photo database)
+https://lnkd.in/gTStaamz (Reverse face search New ok.ru and vk.com photo database)
+https://lnkd.in/gCSwn27v (Am I Real? - check if generated by thispersondoesnotexist.com)
+
+
+https://lnkd.in/guHASBAP (Data Abyss)
+
+
+
+http://onchain.industries/
+
+
+
+Link: https://lnkd.in/ga5tR_cQ (SAFER)
+
+Using this system you can:
+Get licensing and insurance information: https://lnkd.in/gvdmeArH (Link to the specific page for this)
+Get information about cargo tanks: https://lnkd.in/gc-tPdY6 (Link to the specific page for this)
+Get a company snapshot: https://lnkd.in/gk58pzj8 (Link to the specific page for this)
+
+
+
+https://lnkd.in/dc4h3-9g
+
+ like ipinfo.io or ipdata.co t
+
+https://lnkd.in/dE6CeyVH
+You can do this on the official marketplace, Fragment:
+https://fragment.com/ (Fragment)
+
+
+
+
+That's why I subscribe to certain YouTube channels that keep me up to date with this ever-evolving landscape so that I know how to protect myself and my clients. Here are a few that I would recommend:
+
+https://lnkd.in/gWsCe6xy (Surveillance Report)
+https://lnkd.in/gTydBniN (Erik Parker)
+https://lnkd.in/giruxqKH (Techlore)
+https://lnkd.in/gi7ZTwf9 (Seytonic)
+
+You can also find great information on:
+https://lnkd.in/gy8D_Xba (PrivacyGuides)
+
+And I'd also recommend subscribing to 404Media for great investigative journalism on the latest in surveillance, privacy, and other topics:
+https://www.404media.co/ (404media)
+
+
+
